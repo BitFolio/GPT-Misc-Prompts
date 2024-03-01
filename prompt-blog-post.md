@@ -12,3 +12,7 @@ Article 2:
 Article 3: 
 ```
 
+## Gemini
+```
+Can you summarize the following article? URL
+```
