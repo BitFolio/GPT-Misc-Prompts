@@ -2,7 +2,7 @@
 
 ## User
 ```
-Create a video for YouTube shorts on “_" keep the duration under 59 seconds. Start the video by introducing the topic and use the title as the intro text. Challenge the viewers to answer the quesitons: (1) _ and (2) _ Illustrate each with relevant stock clips. Keep the language simple, easy to understand and ethusiastic. Conclude the video by asking viewers _. Sentiment: Curiosity and Urgency
+Create a video for YouTube shorts on “_" keep the duration under 59 seconds. Start the video by introducing the topic and use the title as the intro text. Challenge the viewers to answer the questons: (1) _ and (2) _ Illustrate each with relevant stock clips. Keep the language simple, easy to understand and enthusiastic. Conclude the video by asking viewers _. Sentiment: Curiosity and Urgency
 Pick points from this article: _
 Settings:
 1. Use my voice Voice 1 - User's voice
