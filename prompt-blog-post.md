@@ -14,5 +14,5 @@ Article 3:
 
 ## Gemini
 ```
-Can you summarize the following article? URL
+Can you summarize the following article? 
 ```
