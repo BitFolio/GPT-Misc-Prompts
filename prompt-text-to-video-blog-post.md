@@ -34,3 +34,8 @@ Settings:
 - Change the music to be more inspiring and motivating
 - Increase or decrease the volume of the voiceover
 - Change the media and the first scene to be more Zen and cinematic
+
+## Provide a script
+```
+With the title “_”, create a youtube video with the following script. Use the script exactly. Do not deviate from the script below.
+```
