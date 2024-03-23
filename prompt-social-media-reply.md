@@ -2,7 +2,7 @@
 
 ## Generate a reply to a tweet
 
-[Groq is free and fast] (https://groq.com/)
+[Groq is free and fast](https://groq.com/)
 
 ```
 Generate a reply message that incorporates the strongest elements of the original message [message], while still remaining engaging. 
