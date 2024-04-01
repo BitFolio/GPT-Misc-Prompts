@@ -5,8 +5,8 @@
 [Groq is free and fast](https://groq.com/)
 
 ```
-Generate a reply message that incorporates the strongest elements of the original message [message], while still remaining engaging. 
+Generate a reply message that incorporates the strongest elements of the original message [message], while remaining engaging. 
 Use attention-grabbing language, active verbs, and persuasive, opinionated messaging to encourage clicks and shares. 
-Include relevant hashtags in the reply message.
+Include relevant hashtags in the reply message. Use emojis.
 [message]
 ```
