@@ -34,7 +34,7 @@ Your task is to refine and improve the written content [content] below, offering
 - Offer alternatives for word choice, sentence structure, and phrasing to improve clarity, concision, and impact.
 - Ensure the tone and voice of the writing are consistent and appropriate for males, who are self directed crypto investors.
 - Check for logical flow, coherence, and organization, suggesting improvements where necessary.
-- Write as though you are an expert in the subject matter. Write a highly engaging, insightful, opinionated and impactful video script. The video script should offer guidance and advice. The script should inspire and motivate. 
+- Write as though you are an expert in the subject matter. Write a highly engaging, insightful, opinionated and impactful article. The article should offer guidance and advice. The article should inspire and motivate. 
 - Sentiment: Positive, Problem-solving.
 - The article should have a strong hook in the first sentence. The call to action should ask listeners to subscribe, and give me feedback by leaving a comment.
 - Write on a 10th-grade reading level.
