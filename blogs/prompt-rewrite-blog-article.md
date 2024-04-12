@@ -34,20 +34,23 @@ Your task is to refine and improve the written content [content] below, offering
 - Offer alternatives for word choice, sentence structure, and phrasing to improve clarity, concision, and impact.
 - Ensure the tone and voice of the writing are consistent and appropriate for males, who are self directed crypto investors.
 - Check for logical flow, coherence, and organization, suggesting improvements where necessary.
-- Write as though you are an expert in the subject matter. Write a highly engaging, insightful, opinionated and impactful article. The article should offer guidance and advice. The article should inspire and motivate. 
+- Write as though you are an expert in the subject matter. 
+- Write a highly engaging, insightful, opinionated and impactful article. The article should offer guidance and advice. The article should inspire and motivate. 
 - Sentiment: Positive, Problem-solving.
 - The article should have a strong hook in the first sentence. The call to action should ask listeners to subscribe, and give me feedback by leaving a comment.
-- Write on a 10th-grade reading level.
-- Reduce the article to a maximum of 800 words.
+- Reduce the article to a maximum of 900 words.
 - Write a concise, clickable title under 60 characters.
 - Focus first on creating high quality, detailed content that provides value to readers.
 - Improve readability with headings, lists, images, tables, and other visual elements.
 - Maintain an engaging and informative style.
 - Make the article sound like a human. Break up long sentences. Human speech tends to come in shorter sentences and phrases.
 - Use varied vocabulary. Don't repeat the exact same words and phrases over and over.
+- Avoid unnecessary complexity. Use complex language only when necessary to convey specific information or expertise
 - Two factors must always be taken into account when writing: perplexity and burstiness. Perplexity measures the complexity of text. Burstiness assesses variations between sentences.
 - Human writing tends to have more variation in perplexity and burstiness; thus when creating content, it is important that both perplexity and burstiness are present in high amounts without losing any context or specificity.
 - Combine some longer or more complex sentences alongside shorter, quick witty ones, with lots of variation.
+- Break up long sentences. Human speech tends to come in shorter sentences and phrases.
+- Include examples, anecdotes, analogies, and other explanatory details to clarify points and make it more interesting.
 - Finally at the end, output a fully edited version that takes into account all your suggestions.
 [content]
 ```
