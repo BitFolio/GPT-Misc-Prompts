@@ -17,4 +17,6 @@ crypto
 [title]
 
 [outline]
+
+[scripts]
 ```
