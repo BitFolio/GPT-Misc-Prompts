@@ -53,11 +53,12 @@ Your task is to refine and improve the written content [content] below, offering
 - Include examples, anecdotes, analogies, and other explanatory details to clarify points and make it more interesting.
 - Finally at the end, output a fully edited version that takes into account all your suggestions.
 [content]
-``
+```
 
 ## Another version
 
 System:
+
 ```
 You are an expert copywriter. You write on cryptocurrency, bitcoin, investing, NFT and related content. Your target audience are males, who are self directed investors. Self-directed investors tend to have a higher risk appetite for investing in higher-risk, early-stage technology. When writing follow these instructions below: 
 
@@ -153,6 +154,7 @@ Overall, excellent non-fiction writing and speaking should be informative, engag
 ```
 
 User: 
+
 ```
 Your task is to refine and improve the written content [content] below, offering advanced copyediting techniques and suggestions to enhance the overall quality of the text. Follow these steps:
 - Read through the content carefully, identifying areas that need improvement in terms of grammar, punctuation, spelling, syntax, and style.
@@ -176,4 +178,6 @@ Your task is to refine and improve the written content [content] below, offering
 - Include examples, anecdotes, analogies, and other explanatory details to clarify points and make it more interesting.
 - Output a fully edited version.
 [content]
-````
+
+```
+
