@@ -222,8 +222,6 @@ Before outputting code:
   </script>
 </body>
 </html>
-```
-````
 
 **Quality Requirements:**
 - Mobile-first responsive design
