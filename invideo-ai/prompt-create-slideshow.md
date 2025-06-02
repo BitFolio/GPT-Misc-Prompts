@@ -146,6 +146,7 @@ Before outputting code:
 ## User
 
 ```
+Can you create a set of slides or images to present this material?
 **Task:** Generate a complete reveal.js presentation with Tailwind CSS integration. The presentation must include diverse slide types and clear setup instructions.
 
 **Requirements:**
