@@ -104,6 +104,27 @@ html
    - Clear visual hierarchy with Tailwind spacing  
    - Responsive typography (rem units)  
 
+### Ensure all content is visible on every slide:
+
+* Responsive Slide Containers:
+- Added scrollable sections with custom scrollbars for long content
+- Set maximum heights to prevent overflow
+- Apply vertical scrolling when needed
+* Compact Layout Design:
+- Reduced padding and margins to save space
+- Optimize font sizes
+- Create an efficient grid system
+* Adaptive Typography:
+- Implement responsive font scaling for different screen sizes
+- Reduce heading sizes
+- Improve line spacing for readability
+* Enhanced Quiz Section:
+- Reduce spacing between quiz options
+* Flexible Layout Components:
+- Convert multi-column layouts to single column on small screens
+- Add vertical spacing between elements in responsive mode
+- Improve icon sizing for different viewports
+
 ---
 
 ### Setup Instructions
