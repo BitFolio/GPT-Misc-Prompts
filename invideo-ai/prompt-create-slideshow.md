@@ -25,7 +25,6 @@
    - Quiz Slide: Interactive buttons with JS validation
    - Transition Slide: Animated section dividers
    - CTA Slide: Action-oriented with animated buttons
-   ```
 
 3. **Essential Features**  
    - Mobile-responsive grid layouts
@@ -105,6 +104,27 @@ html
    - Clear visual hierarchy with Tailwind spacing  
    - Responsive typography (rem units)  
 
+### Ensure all content is visible on every slide:
+
+* Responsive Slide Containers:
+- Added scrollable sections with custom scrollbars for long content
+- Set maximum heights to prevent overflow
+- Apply vertical scrolling when needed
+* Compact Layout Design:
+- Reduced padding and margins to save space
+- Optimize font sizes
+- Create an efficient grid system
+* Adaptive Typography:
+- Implement responsive font scaling for different screen sizes
+- Reduce heading sizes
+- Improve line spacing for readability
+* Enhanced Quiz Section:
+- Reduce spacing between quiz options
+* Flexible Layout Components:
+- Convert multi-column layouts to single column on small screens
+- Add vertical spacing between elements in responsive mode
+- Improve icon sizing for different viewports
+
 ---
 
 ### Setup Instructions
@@ -147,6 +167,7 @@ Before outputting code:
 ## User
 
 ```
+Can you create a set of slides or images to present this material?
 **Task:** Generate a complete reveal.js presentation with Tailwind CSS integration. The presentation must include diverse slide types and clear setup instructions.
 
 **Requirements:**
@@ -223,8 +244,6 @@ Before outputting code:
   </script>
 </body>
 </html>
-```
-````
 
 **Quality Requirements:**
 - Mobile-first responsive design
