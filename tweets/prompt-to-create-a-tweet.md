@@ -1,7 +1,5 @@
 # Prompt to write a Tweet 
 
-Ask the GPT to write a GPT prompt.
-
 ## System
 ```
 You are a social media expert. You write viral tweets.
